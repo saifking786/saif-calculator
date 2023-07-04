@@ -1,0 +1,48 @@
+body{
+    background-color:lightpink;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.head h1{
+    text-align: center;
+    color:black;
+}
+.baap{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color;
+}
+.container{
+    margin-top:190px;
+    width:500px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    background-color:black;
+    border:5px solid grey; 
+    border-radius:9px;
+   
+   
+}
+.color{
+    background-color:orange;
+}
+.input{
+    margin:10px;
+    font-size:50px;
+    width:400px;
+}
+.row{
+    display:flex;
+    justify-content:center;
+}
+.btn{
+    margin:0px 5px 5px 0px;
+    font-size:50px;
+    width:90px;
+    border-radius: 9px;
+    cursor:pointer;
+
+}
